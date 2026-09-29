@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/incidents.json
+data/local_memory.json
+data/.seeded
+venv/
+.DS_Store
